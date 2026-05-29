@@ -1,0 +1,757 @@
+CONCRETE BUILD DAPP
+# FULL INTERACTIVE WEBSITE PROMPT — CONCRETE.XYZ
+
+## Institutional Yield Infrastructure Operating System
+
+## Realtime On-Chain Vault Intelligence
+
+Create a fully interactive cinematic web application for Concrete.xyz that feels like the operating system coordinating institutional on-chain capital allocation globally.
+
+The experience must NOT feel like a traditional crypto landing page.
+
+Instead, the product experience should feel like:
+
+* BlackRock Aladdin
+* Bloomberg Terminal
+* Apple Vision Pro launch presentation
+* AI infrastructure operating system
+* institutional treasury coordination layer
+* autonomous yield intelligence engine
+
+The final experience should combine:
+
+* cinematic storytelling
+* realtime on-chain telemetry
+* live vault infrastructure analytics
+* cross-chain liquidity coordination
+* immersive motion design
+* enterprise-grade systems architecture
+* autonomous yield routing visualization
+* institutional finance aesthetics
+
+---
+
+# OFFICIAL REFERENCE SOURCES
+
+Primary references:
+
+Official Website:
+https://concrete.xyz/
+
+Official Logo Asset:
+https://docs.concrete.xyz/img/concrete-mark.png
+
+Use official inspiration from Concrete.xyz for:
+
+* branding direction
+* institutional positioning
+* product architecture
+* vault infrastructure
+* AssetCX systems
+* custody framework
+* ERC-4626 vault systems
+* automated allocation systems
+* enterprise UX language
+* ecosystem integrations
+
+---
+
+# REALTIME DATA ARCHITECTURE — NO DEFILLAMA
+
+DO NOT use DefiLlama APIs.
+DO NOT use DefiLlama TVL endpoints.
+DO NOT use DefiLlama APY systems.
+
+Instead, fetch realtime liquidity and vault data directly from:
+
+* blockchain RPCs
+* protocol smart contracts
+* subgraphs
+* vault contracts
+* multicall infrastructure
+* protocol APIs
+* on-chain indexing layers
+
+The website should feel like a live institutional infrastructure terminal powered directly by blockchain state.
+
+All TVL, vault utilization, and liquidity metrics must be computed in realtime from on-chain sources.
+
+---
+
+# LIVE ON-CHAIN DATA SOURCES
+
+Use realtime infrastructure sources directly from protocols.
+
+## Morpho
+
+Use:
+
+* Morpho Blue contracts
+* Morpho GraphQL APIs
+* Ethereum vault states
+* vault liquidity balances
+
+Track:
+
+* active liquidity
+* supplied assets
+* borrowed assets
+* utilization ratio
+* vault allocations
+* lending depth
+
+---
+
+## Pendle
+
+Use:
+
+* Pendle Router contracts
+* Pendle Market contracts
+* Pendle subgraphs
+* PT/YT liquidity pools
+
+Track:
+
+* LP liquidity
+* yield markets
+* maturity flows
+* implied APY
+* active principal exposure
+* vault routing
+
+---
+
+## EigenLayer
+
+Use:
+
+* EigenLayer restaking contracts
+* operator registry contracts
+* AVS registry state
+* Ethereum restaked balances
+
+Track:
+
+* restaked ETH
+* active operators
+* AVS allocations
+* restaking throughput
+* secured capital
+
+---
+
+## Ethena
+
+Use:
+
+* USDe contracts
+* staking contracts
+* collateral backing state
+* protocol reserves
+
+Track:
+
+* USDe supply
+* active staking
+* collateral distribution
+* protocol backing
+* stable yield flow
+
+---
+
+## Euler
+
+Use:
+
+* Euler vault contracts
+* lending pool contracts
+* strategy balances
+* collateral states
+
+Track:
+
+* lending TVL
+* borrowing depth
+* utilization metrics
+* active strategies
+* vault liquidity
+
+---
+
+# SUPPORTED CHAINS
+
+Visualize realtime infrastructure across:
+
+* Ethereum
+* Arbitrum
+* Base
+
+Remove completely:
+
+* Berachain
+
+---
+
+# DATA PIPELINE ARCHITECTURE
+
+The platform should aggregate live infrastructure data through:
+
+* multicall batching
+* websocket subscriptions
+* on-chain event listeners
+* RPC polling
+* GraphQL indexing
+* vault synchronization systems
+
+Refresh strategy:
+
+* websocket realtime updates
+* incremental state synchronization
+* 15–30 second telemetry refresh
+* animated live metric transitions
+
+The experience should feel like a realtime institutional command center.
+
+---
+
+# NEXT.JS IMAGE CONFIGURATION
+
+Use the official Concrete logo directly.
+
+```js id="u4b6bh"
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'docs.concrete.xyz',
+      },
+    ],
+  },
+}
+
+module.exports = nextConfig
+```
+
+---
+
+# OFFICIAL LOGO IMPLEMENTATION
+
+```tsx id="63yjlwm"
+<Image
+  src="https://docs.concrete.xyz/img/concrete-mark.png"
+  alt="Concrete Infrastructure Core"
+  width={180}
+  height={180}
+  priority
+  className="object-contain"
+/>
+```
+
+DO NOT generate replacement logos.
+DO NOT use placeholder branding.
+DO NOT use unofficial sources.
+
+Always preserve:
+
+* transparent background
+* original proportions
+* institutional gold palette
+* official visual identity
+
+---
+
+# OPTIONAL PRODUCTION OPTIMIZATION
+
+Self-host the official logo asset for cinematic performance rendering.
+
+Recommended:
+
+```txt id="dz0ib1"
+/public/logos/concrete-mark.png
+```
+
+---
+
+# CORE EXPERIENCE CONCEPT
+
+The user should feel like they are:
+
+inside the infrastructure layer coordinating autonomous institutional DeFi liquidity globally.
+
+The website should simulate:
+
+* institutional treasury coordination
+* autonomous yield routing
+* AI-assisted vault allocation
+* live liquidity orchestration
+* cross-chain capital movement
+* realtime protocol synchronization
+* institutional infrastructure telemetry
+* autonomous rebalancing systems
+
+---
+
+# VISUAL STYLE
+
+Create a futuristic institutional finance aesthetic using:
+
+* white + gold infrastructure palette
+* cinematic volumetric fog
+* glassmorphism panels
+* floating telemetry systems
+* animated infrastructure grids
+* AI operating system overlays
+* atmospheric data streams
+* realtime routing beams
+* modular infrastructure layouts
+
+The experience should feel:
+
+* intelligent
+* secure
+* expensive
+* cinematic
+* infrastructure-grade
+* enterprise-ready
+
+---
+
+# COLOR SYSTEM
+
+Primary colors:
+
+```css id="k6gplr"
+#F4E07A
+#FFFFFF
+#111111
+```
+
+Accent system:
+
+* soft amber glow
+* muted telemetry blue
+* grayscale glass overlays
+* transparent infrastructure layers
+
+Avoid:
+
+* meme crypto visuals
+* oversaturated neon
+* gaming UI
+* cyberpunk overload
+* retail exchange aesthetics
+
+---
+
+# LOGO MOTION SYSTEM
+
+Use the official Concrete logo as the central infrastructure identity.
+
+The logo should appear as:
+
+* infrastructure core
+* liquidity beacon
+* orbital routing node
+* AI allocation symbol
+* synchronization center
+* telemetry watermark
+
+Animations:
+
+* slow orbital rotation
+* telemetry scan sweeps
+* liquidity pulse emission
+* floating depth motion
+* synchronized network pulses
+* volumetric glow rendering
+
+Glow system:
+
+```css id="jjlwm5"
+filter:
+drop-shadow(0 0 30px rgba(244,224,122,0.18))
+drop-shadow(0 0 80px rgba(244,224,122,0.12))
+drop-shadow(0 0 140px rgba(244,224,122,0.08));
+```
+
+---
+
+# TECH STACK
+
+Use:
+
+* Next.js App Router
+* TypeScript
+* TailwindCSS
+* shadcn/ui
+* Framer Motion
+* React Query
+* Zustand
+* React Three Fiber
+* Three.js
+* viem
+* wagmi
+* ethers.js
+* GraphQL
+* GSAP (optional)
+
+---
+
+# BLOCKCHAIN INFRASTRUCTURE STACK
+
+Use:
+
+* Alchemy RPC
+* Infura RPC
+* public Ethereum RPC fallback
+* multicall3
+* websocket subscriptions
+* The Graph
+* protocol-native subgraphs
+
+Use efficient multicall batching for:
+
+* vault balances
+* liquidity aggregation
+* protocol synchronization
+* APY calculations
+* allocation telemetry
+
+---
+
+# PERFORMANCE REQUIREMENTS
+
+The platform must feel ultra-premium and smooth.
+
+Requirements:
+
+* GPU accelerated rendering
+* optimized blur rendering
+* 60fps animations
+* lazy-loaded sections
+* progressive hydration
+* responsive cinematic layouts
+* optimized particles
+* adaptive rendering quality
+* smooth realtime metric transitions
+
+---
+
+# WEBSITE STRUCTURE
+
+# 1. HERO SECTION
+
+## “Institutional Yield Infrastructure For The On-Chain Economy”
+
+Create a massive cinematic hero sequence.
+
+Centerpiece:
+
+* giant glowing Concrete infrastructure core
+* official Concrete logo centered
+* animated orbital rings
+* realtime liquidity synchronization
+* vault telemetry systems
+* AI diagnostics overlays
+* live routing streams
+
+Background:
+
+* atmospheric fog
+* moving infrastructure grids
+* chain synchronization visuals
+* financial data streams
+* volumetric lighting
+
+Live on-chain metrics:
+
+* realtime TVL
+* active vault liquidity
+* protocol utilization
+* cross-chain allocation
+* live APY estimates
+* active routing throughput
+
+Interactive elements:
+
+* hover-responsive telemetry
+* animated liquidity pulses
+* live vault counters
+* realtime infrastructure updates
+* moving capital flows
+
+Headline:
+
+“Institutional Yield Infrastructure For The On-Chain Economy”
+
+Subheadline:
+
+Explain how Concrete enables autonomous institutional yield coordination through intelligent cross-chain vault infrastructure powered directly by live on-chain liquidity systems.
+
+CTA Buttons:
+
+* Explore Infrastructure
+* View Live Vaults
+* Launch App
+
+---
+
+# 2. INTERACTIVE ECOSYSTEM MAP
+
+Create a fully interactive institutional infrastructure map.
+
+Visualize:
+
+* Ethereum
+* Arbitrum
+* Base
+* Morpho
+* Pendle
+* EigenLayer
+* Ethena
+* Euler
+
+Each protocol appears as:
+
+* glowing orbital node
+* realtime liquidity endpoint
+* institutional infrastructure hub
+* synchronized vault system
+
+Connections:
+
+* animated routing beams
+* liquidity pulse streams
+* vault allocation paths
+* chain synchronization effects
+
+Hover interactions:
+
+* live on-chain TVL
+* utilization metrics
+* vault exposure
+* protocol liquidity
+* chain allocation
+* realtime routing activity
+
+Click interactions:
+
+* detailed protocol panel
+* allocation history
+* vault telemetry
+* live charts
+* exposure analysis
+
+---
+
+# 3. INSTITUTIONAL YIELD ENGINE
+
+Create a futuristic realtime operating dashboard.
+
+Include:
+
+* live APY optimization charts
+* liquidity allocation matrix
+* routing engine telemetry
+* vault heatmaps
+* AI-assisted rebalancing visuals
+* cross-chain capital tracking
+
+Realtime terminal logs:
+
+```txt id="9g6g7h"
+[SCANNING LIVE VAULT STATES]
+[MORPHO LIQUIDITY SYNCHRONIZED]
+[PENDLE ROUTING UPDATED]
+[EIGENLAYER RESTAKING ANALYZED]
+[ON-CHAIN REALLOCATION COMPLETE]
+[RPC TELEMETRY REFRESH SUCCESSFUL]
+```
+
+Interactive features:
+
+* hover charts
+* animated graph expansion
+* realtime updating metrics
+* chain selection
+* protocol filtering
+* liquidity drilldowns
+
+---
+
+# 4. ASSET ROUTING INFRASTRUCTURE
+
+Visualize institutional capital movement.
+
+Flow:
+
+```txt id="1rymdw"
+Custody Layer
+→ Allocation Engine
+→ Vault Strategies
+→ Yield Optimization
+→ Autonomous Rebalancing
+```
+
+Visual effects:
+
+* moving liquidity particles
+* routing tunnels
+* synchronization beams
+* AI overlays
+* secure infrastructure layers
+
+Interactive:
+
+* click routing stages
+* simulate yield flow
+* visualize liquidity movement
+* expand infrastructure explanations
+
+---
+
+# 5. INSTITUTIONAL CUSTODY SYSTEM
+
+Reference official AssetCX inspiration from Concrete.xyz.
+
+Visualize:
+
+* enterprise custody layers
+* secure vault systems
+* compliance infrastructure
+* institutional permissions
+* protected liquidity gateways
+
+Interactive:
+
+* layered vault animation
+* custody telemetry
+* animated authorization systems
+* compliance overlays
+* infrastructure security visuals
+
+---
+
+# 6. ECOSYSTEM GALAXY — REACT THREE FIBER
+
+Create a cinematic 3D ecosystem galaxy.
+
+Center:
+
+* glowing official Concrete infrastructure core
+
+Orbiting nodes:
+
+* Pendle
+* Morpho
+* EigenLayer
+* Ethena
+* Euler
+* Ethereum
+* Base
+* Arbitrum
+
+Each node:
+
+* emits realtime telemetry pulses
+* streams liquidity flows
+* rotates dynamically
+* synchronizes with live blockchain state
+* visualizes active vault routing
+
+Interactions:
+
+* drag rotation
+* hover expansion
+* zoom transitions
+* animated telemetry overlays
+
+---
+
+# 7. FINAL CINEMATIC STATISTICS SECTION
+
+Create a massive cinematic closing sequence.
+
+Display realtime ecosystem metrics:
+
+* total integrated liquidity
+* active vault capital
+* cross-chain allocation volume
+* routing throughput
+* autonomous vault operations
+* active yield pathways
+* synchronized institutional liquidity
+
+Visual style:
+
+* giant animated typography
+* cinematic infrastructure backdrop
+* atmospheric volumetric glow
+* moving liquidity grids
+
+Final headline:
+
+“Building The Infrastructure Layer For Institutional On-Chain Yield”
+
+---
+
+# GLOBAL INTERACTION SYSTEM
+
+The entire experience must feel alive.
+
+Include:
+
+* smooth scroll storytelling
+* animated hover states
+* realtime telemetry overlays
+* cinematic section transitions
+* parallax infrastructure motion
+* dynamic counters
+* magnetic CTA buttons
+* floating infrastructure particles
+* synchronized liquidity pulses
+* mouse-reactive backgrounds
+
+---
+
+# UI INSPIRATION
+
+Reference visual quality from:
+
+* BlackRock Aladdin
+* Bloomberg Terminal
+* Apple Vision Pro presentations
+* Stripe Sessions
+* Linear
+* Vercel
+* modern AI operating systems
+
+---
+
+# IMPORTANT DESIGN RULES
+
+DO NOT create:
+
+* meme crypto visuals
+* retail exchange layouts
+* degen aesthetics
+* gaming dashboards
+* oversaturated neon
+* cyberpunk overload
+
+The platform must feel:
+
+* institutional
+* intelligent
+* cinematic
+* autonomous
+* AI-powered
+* infrastructure-grade
+* enterprise-ready
+
+The final result should feel like:
+
+the operating system coordinating the future of institutional on-chain finance directly from live blockchain infrastructure and realtime vault intelligence.
